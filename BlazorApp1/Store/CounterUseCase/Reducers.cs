@@ -1,6 +1,6 @@
 ﻿using Fluxor;
 
-namespace FluxorBlazorWeb.StateActionsReducersTutorial.Store.CounterUseCase
+namespace BlazorApp1.Store.CounterUseCase
 {
 	public static class Reducers
 	{

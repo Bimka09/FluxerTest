@@ -1,9 +1,9 @@
-﻿using FluxorBlazorWeb.StateActionsReducersTutorial.Store.CounterUseCase;
+﻿using BlazorApp1.Store.CounterUseCase;
 using Fluxor;
 using Microsoft.AspNetCore.Components;
-using FluxorBlazorWeb.StateActionsReducersTutorial.Store;
+using BlazorApp1.Store;
 
-namespace FluxorBlazorWeb.StateActionsReducersTutorial.Pages
+namespace BlazorApp1.Pages
 {
 	public partial class Counter
 	{
